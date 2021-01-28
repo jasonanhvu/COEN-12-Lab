@@ -1,5 +1,6 @@
-unique
-------
+# Unique 
+
+```
                               unsorted  sorted
 GreenEggsAndHam.txt           0m0.013s  0m0.014s
 Macbeth.txt                   0m0.139s  0m0.044s
@@ -11,10 +12,10 @@ TheSecretGarden.txt           0m0.324s  0m0.086s
 TheCountOfMonteCristo.txt     0m2.980s  0m0.008s
 TwentyThousandLeagues.txt     0m0.657s  0m0.157s
 Bible.txt                     0m3.156s  0m0.363s
+```
 
-
-bincount
---------
+# Bincount
+```
                               unsorted  sorted
 GreenEggsAndHam.txt           0m0.009s  0m0.012s
 Macbeth.txt                   0m0.040s  0m0.025s
@@ -26,10 +27,10 @@ TheSecretGarden.txt           0m0.095s  0m0.052s
 TheCountOfMonteCristo.txt     0m0.009s  0m0.008s
 TwentyThousandLeagues.txt     0m0.164s  0m0.074s
 Bible.txt                     0m0.688s  0m0.240s
+```
 
-
-parity
-------
+# Parity
+```
                               unsorted  sorted
 GreenEggsAndHam.txt           0m0.014s  0m0.020s
 Macbeth.txt                   0m0.306s  0m0.110s
@@ -41,3 +42,4 @@ TheSecretGarden.txt           0m1.230s  0m0.339s
 TheCountOfMonteCristo.txt     0m29.008s 0m3.872s
 TwentyThousandLeagues.txt     0m2.995s  0m0.596s
 Bible.txt                     0m29.553s 0m3.738s
+```
