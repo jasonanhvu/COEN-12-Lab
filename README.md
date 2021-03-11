@@ -1,19 +1,27 @@
 # COEN 12 Lab
-- Contains source code for COEN 12: Abstract Data Types and Structures Lab, taken in Winter 2021, taught by Professor: Dr. Xiang Li
+- Source code for COEN 12: Abstract Data Types and Structures Lab, taken in Winter 2021, taught by Dr. Xiang Li
 
-  - Lab 1: Application to read words from a text file and return total number of words
+  - Lab 1:
+    - Application to read words from a text file and return total number of words
 
-  - Lab 2: Implementation of a set abstract data type for strings
+  - Lab 2: 
+    - Implementation of a set abstract data type for strings
 
-  - Lab 3: Implementation of a set abstract data type, for strings and for generic pointer types
+  - Lab 3: 
+    - Implementation of a set abstract data type, for strings and for generic pointer types
 
-  - Lab 4: Implementation of a deque, and a set with hashing with chaining
+  - Lab 4: 
+    - Implementation of a deque, and a set with hashing with chaining
 
-  - Lab 5: Implementation of a priority queue ADT for Huffman tree coding
+  - Lab 5: 
+    - Implementation of a priority queue ADT for Huffman tree coding
 
-  - Lab 6: Implementation of the quick sort algorithm for a set ADT
+  - Lab 6: 
+    - Implementation of the quick sort algorithm for a set ADT
 
-  - Term Project: Implementation of a college data set, searching for a student based on age and ID
+  - Term Project: 
+    - Implementation of a college data set, searching for a student based on age and ID
+    
 
 ## Expected Learning Outcomes: Students will ...
 
