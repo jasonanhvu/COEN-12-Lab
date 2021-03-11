@@ -1,0 +1,56 @@
+Big O Complexity for all functions in Application #2:
+
+Worst Case Big O Analysis
+
+createDataSet = O(n)
+destroyDataSet = O(n)
+insert = O(1)
+delete = O(1)
+searchID = O(1)
+
+The implantation of application uses an array that matches up with the student's id to allow easy searching by id, but no needs for frequent insertion or deletion.
+
+=============
+Test Case #1:
+=============
+
+Data Set Created
+All records successfully inserted into Data Set.
+Searching for record with ID 1430 in the Data Set.
+Record with ID 1430 was found in Data Set.
+Removing record with ID 947 in the Data Set.
+Searching for record with ID 947 in the Data Set.
+Record with ID 947 was not found in Data Set.
+Record with ID 947 could not be removed from the Data Set.
+All operations complete, freeing memory of Data Set.
+
+=============
+Test Case #2:
+=============
+
+Data Set Created
+All records successfully inserted into Data Set.
+Searching for record with ID 849 in the Data Set.
+Record with ID 849 was not found in Data Set.
+Removing record with ID 1562 in the Data Set.
+Searching for record with ID 1562 in the Data Set.
+Record with ID 1562 was not found in Data Set.
+Record with ID 1562 could not be removed from the Data Set.
+All operations complete, freeing memory of Data Set.
+
+=============
+Test Case #3:
+=============
+
+Data Set Created
+All records successfully inserted into Data Set.
+Searching for record with ID 569 in the Data Set.
+Record with ID 569 was found in Data Set.
+Removing record with ID 383 in the Data Set.
+Searching for record with ID 383 in the Data Set.
+Record with ID 383 was not found in Data Set.
+Record with ID 383 could not be removed from the Data Set.
+All operations complete, freeing memory of Data Set.
+
+
+

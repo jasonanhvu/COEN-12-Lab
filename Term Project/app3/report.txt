@@ -1,0 +1,66 @@
+Big O Complexity for all functions in Application #3:
+
+LIST* createList: O(1)
+
+void searchAge: O(n)
+
+void searchID: O(n)
+
+void destroyList: O(n)
+
+void addElement: O(n)
+
+void removeElement: O(n)
+
+int maxAgeGap: O(1)
+
+
+=============
+Test Case #1:
+=============
+
+Data Set Created
+All records successfully inserted into Data Set.
+The maximum student age gap within the Data Set is 12 years old
+Searching for record with ID 1425 in the Data Set.
+Record not found in the Data Set with that specific ID.
+Searching for record with Age 18 in the Data Set.
+Record with Age 18 was found in the Data Set.
+Searching for and removing record with ID 712 in the Data Set.
+Record with ID 712 has been located and removed from the Data Set.
+Record with ID 712 could not be located and removed from the Data Set.
+All operations complete, freeing memory of Data Set.
+
+
+=============
+Test Case #2:
+=============
+
+Data Set Created
+All records successfully inserted into Data Set.
+The maximum student age gap within the Data Set is 12 years old
+Searching for record with ID 1780 in the Data Set.
+Record not found in the Data Set with that specific ID.
+Searching for record with Age 25 in the Data Set.
+Record with Age 25 was found in the Data Set.
+Searching for and removing record with ID 853 in the Data Set.
+Record with ID 853 has been located and removed from the Data Set.
+Record with ID 853 could not be located and removed from the Data Set.
+All operations complete, freeing memory of Data Set.
+
+
+=============
+Test Case #3:
+=============
+
+Data Set Created
+All records successfully inserted into Data Set.
+The maximum student age gap within the Data Set is 12 years old
+Searching for record with ID 773 in the Data Set.
+Record with ID 773 was found in the Data Set.
+Searching for record with Age 20 in the Data Set.
+Record with Age 20 was found in the Data Set.
+Searching for and removing record with ID 50 in the Data Set.
+Record with ID 50 has been located and removed from the Data Set.
+Record with ID 50 could not be located and removed from the Data Set.
+All operations complete, freeing memory of Data Set.
