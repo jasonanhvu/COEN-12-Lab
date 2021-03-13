@@ -28,4 +28,4 @@ void *findElement(SET *sp, void *elt);
 
 void *getElements(SET *sp);
 
-# endif /* SET_H */ 
+# endif /* SET_H */
